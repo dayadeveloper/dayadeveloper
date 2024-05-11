@@ -6,7 +6,7 @@
 - 😄 Pronouns: ... she
 - ⚡ Fun fact: Hi there! I'm a developer passionate about technology, innovation, and continuous learning. Here are some fun facts about me:
 
-- *Favorite Programming Languages*: I love working with Python and Java, but I'm always open to learning new ones.
+- *Favorite Programming Languages*: I love working with Python,Java and JS but I'm always open to learning new ones.
 
 - *Open Source Projects*: I contribute to projects involving artificial intelligence, web development, automation, etc.
 
